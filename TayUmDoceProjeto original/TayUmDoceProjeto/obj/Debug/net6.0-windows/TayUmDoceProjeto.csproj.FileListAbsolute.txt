@@ -1,0 +1,39 @@
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\bin\Debug\net6.0-windows\TayUmDoceProjeto.exe
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\bin\Debug\net6.0-windows\TayUmDoceProjeto.deps.json
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\bin\Debug\net6.0-windows\TayUmDoceProjeto.runtimeconfig.json
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\bin\Debug\net6.0-windows\TayUmDoceProjeto.dll
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\bin\Debug\net6.0-windows\TayUmDoceProjeto.pdb
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.csproj.AssemblyReference.cache
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto_MarkupCompile.cache
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto_MarkupCompile.lref
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.g.resources
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.AssemblyInfoInputs.cache
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.AssemblyInfo.cs
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.csproj.CoreCompileInputs.cache
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.dll
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\refint\TayUmDoceProjeto.dll
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.pdb
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.genruntimeconfig.cache
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\ref\TayUmDoceProjeto.dll
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarCliente.g.cs
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarDoce.g.cs
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarEntrega.g.cs
+C:\Users\2021102020032\Documents\TayUmDoceProjeto\TayUmDoceProjeto\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarFuncionario.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.csproj.AssemblyReference.cache
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarCliente.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarDoce.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarEntrega.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarFornecedor.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarFuncionario.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\App.g.cs
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto_MarkupCompile.cache
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto_MarkupCompile.lref
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.dll
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\refint\TayUmDoceProjeto.dll
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\TayUmDoceProjeto.pdb
+D:\IFRO - 2023\P.D.S\PROJETO\TayUmDoceProjeto original\TayUmDoceProjeto\obj\Debug\net6.0-windows\Telas\CadastrarVenda.g.cs

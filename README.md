@@ -1,10 +1,10 @@
-# ProjetoTayUmDoce
+## ProjetoTayUmDoce
 
-# Integrantes
+## Integrantes
 
-## Amanda Rangel
-## Anderson Felipe
-## Felipe Torejiani 
-## Kaick Damas 
-## Samara Hespanhol
-## Tayná Carvalho
+### Amanda Rangel
+### Anderson Felipe
+### Felipe Torejiani 
+### Kaick Damas 
+### Samara Hespanhol
+### Tayná Carvalho

@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IFRO - 2023\\P.D.S\\PROJETO\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj": {}
+    "C:\\Users\\2021102020031\\Documents\\GitHub\\ProjetoTayUmDoce\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj": {}
   },
   "projects": {
-    "D:\\IFRO - 2023\\P.D.S\\PROJETO\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj": {
+    "C:\\Users\\2021102020031\\Documents\\GitHub\\ProjetoTayUmDoce\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IFRO - 2023\\P.D.S\\PROJETO\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\2021102020031\\Documents\\GitHub\\ProjetoTayUmDoce\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
         "projectName": "TayUmDoceProjeto",
-        "projectPath": "D:\\IFRO - 2023\\P.D.S\\PROJETO\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
-        "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "D:\\IFRO - 2023\\P.D.S\\PROJETO\\TayUmDoceProjeto original\\TayUmDoceProjeto\\obj\\",
+        "projectPath": "C:\\Users\\2021102020031\\Documents\\GitHub\\ProjetoTayUmDoce\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
+        "packagesPath": "C:\\Users\\2021102020031\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021102020031\\Documents\\GitHub\\ProjetoTayUmDoce\\TayUmDoceProjeto original\\TayUmDoceProjeto\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2021102020031\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

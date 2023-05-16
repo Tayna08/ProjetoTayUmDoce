@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\2021102020032\\.nuget\\packages\\": {},
+    "C:\\Users\\2021102020079\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2021102020032\\Downloads\\ProjetoTayUmDoce-mains\\ProjetoTayUmDoce-main\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\2021102020079\\Documents\\GitHub\\ProjetoTayUmDoce\\ProjetoTayUmDoce\\ProjetoTayUmDoce-main\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
       "projectName": "TayUmDoceProjeto",
-      "projectPath": "C:\\Users\\2021102020032\\Downloads\\ProjetoTayUmDoce-mains\\ProjetoTayUmDoce-main\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
-      "packagesPath": "C:\\Users\\2021102020032\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2021102020032\\Downloads\\ProjetoTayUmDoce-mains\\ProjetoTayUmDoce-main\\TayUmDoceProjeto original\\TayUmDoceProjeto\\obj\\",
+      "projectPath": "C:\\Users\\2021102020079\\Documents\\GitHub\\ProjetoTayUmDoce\\ProjetoTayUmDoce\\ProjetoTayUmDoce-main\\TayUmDoceProjeto original\\TayUmDoceProjeto\\TayUmDoceProjeto.csproj",
+      "packagesPath": "C:\\Users\\2021102020079\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2021102020079\\Documents\\GitHub\\ProjetoTayUmDoce\\ProjetoTayUmDoce\\ProjetoTayUmDoce-main\\TayUmDoceProjeto original\\TayUmDoceProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\2021102020032\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\2021102020079\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

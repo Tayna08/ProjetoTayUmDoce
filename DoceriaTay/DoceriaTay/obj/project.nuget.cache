@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIf9x1OM1BxpOfqbhiTJoqIb9WkWPxi6kfCCOPW3bo5wAmjhwOxC9dGBkJwY0a0c3TyCVSuoBWaf1Vskgx1O3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2021102020017\\Desktop\\TayUmDoce\\TayUmDoce\\DoceriaTay\\DoceriaTay\\DoceriaTay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2021102020017\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\2021102020017\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\2021102020017\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
